@@ -1,6 +1,6 @@
 
 <form action="/login" method="post">
-
+h
   <div class="form-group">
     <label for="email">Email address</label>
     <input type="email" class="form-control" name="Email" id="email" placeholder="Enter email">
@@ -10,5 +10,6 @@
     <input type="password" class="form-control" name="Password" id="password" placeholder="Password">
   </div>
   <a href="/signup">Create new account ?</a>
+  <button type="submit" class="btn btn-primary">Login</button>
   <button type="submit" class="btn btn-primary">Login</button>
 </form>
