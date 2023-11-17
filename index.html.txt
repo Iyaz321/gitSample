@@ -12,4 +12,10 @@ h
   <a href="/signup">Create new account ?</a>
   <button type="submit" class="btn btn-primary">Login</button>
   <button type="submit" class="btn btn-primary">Login</button>
+ <a href="/signup">Create new account ?</a>
+ <a href="/signup">Create new account ?</a>
+ <button type="submit" class="btn btn-primary">Login</button>
+ <button type="submit" class="btn btn-primary">Login</button>
+
+
 </form>
